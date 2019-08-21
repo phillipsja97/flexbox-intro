@@ -12,3 +12,16 @@ nav {
     margin: 1em;
 
 }
+
+.puppy-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.puppy-container img {
+    width: 500px;
+    height: 500px;
+    margin: 1em;
+}
